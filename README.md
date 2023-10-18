@@ -1,2 +1,2 @@
-# hexo
-a blob trying with hexo
+# www.yeahisname.asia
+my own web
